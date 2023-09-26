@@ -1,0 +1,7 @@
+site_name: Extrator de Emails
+
+theme:
+  name: material
+
+plugins:
+- mkdocstrings
